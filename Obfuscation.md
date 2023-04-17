@@ -1,4 +1,5 @@
 # Obfuscation
+Obfuscation is the act of obscuring your hard-coded code and adding security to it by running it in a custom environment so you can monitor, verify, and secure everything being done by the client. This is an exceptionally powerful tool in security and should not be underestimated, nor overestimated. While obfuscation is great for the hard-coded aspect, always remember the client has more control then you, and can hook *anything*, so always use an extra layer of protection such as anti-hooks.
 ## Why use a 'VM' obfuscator?
 Lua naturally cannot be interperated by your CPU, which is why a language such as C does the actual computing. This is the natural Lua VM that is used when you run a normal script.
 

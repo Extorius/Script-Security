@@ -23,7 +23,7 @@ In just two steps your entire script's raw source code is completely vulnerable 
 - Krato Security
 - MostBlatantMalware#0277's Shit Aimbot
 
-## Chatper 3 - Restricted Access
+## Chapter 3 - Restricted Access
 Keeping your script refined to a small audience of people, or in other words privated, is a pretty bad idea without obfuscation. Anyone in the group that has access can at any point leak the script, which is why this is only a good idea if someone is paying you for this script specifically. Otherwise, it's really not worth the risk unless the script is very low value, or the people who have access can be trusted.
 #### Security Rating
 - 2/10

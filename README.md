@@ -105,8 +105,10 @@ The client-server relationship of a whitelisting service is what keeps it so sec
 
 This is the very bare bones of a more premium whitelisting system, and many more security features can be found in most. All in all, a whitelisting service with added code security is about as secure as you can get. If you're interested in this option, here's a few whitelisting services you should check, ranked in security and other features:
 
-- Luarmor | Speed: 10/10 | Stability: 7/10 | Security: 10/10
-- luaGuard | Speed: 8/10 | Stability: 9/10 | Security: 8/10
+Service | Speed | Stability | Security
+--- | --- | --- | ---
+Luarmor | 10/10 | 7/10 | 10/10
+luaGuard | 8/10 | 9/10 | 8/10
 
 #### Security Rating
 - 8-10/10

@@ -114,3 +114,13 @@ luaGuard | 8/10 | 9/10 | 8/10
 - 8-10/10
 #### Scripts With Vulnerability
 - None so far
+
+## Summary - What's secure?
+### Storage
+A good storage option that can block requests made in browser is a good idea. It won't *really* add much security, but it can be a good warning for potential attackers, and most people won't go much further.
+
+### Obfuscation
+Always. Use. Luraph. Aren't really sure if it's that secure? We have a seperate explanation on why Luraph is the best option if you value security.
+
+### Whitelisting
+Although your script might not need the actual whitelisting aspect, premium whitelisting systems such as luaGuard or Luarmor both offer free for all modes with the exact same amount of real code security, and is **highly** recommended to use, especially if your script is making requests to an external server or endpoint.

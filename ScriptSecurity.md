@@ -124,3 +124,6 @@ Always. Use. Luraph. Aren't really sure if it's that secure? We have a seperate 
 
 ### Whitelisting
 Although your script might not need the actual whitelisting aspect, premium whitelisting systems such as luaGuard or Luarmor both offer free for all modes with the exact same amount of real code security, and is **highly** recommended to use, especially if your script is making requests to an external server or endpoint.
+
+### So, how secure am I now?
+If you're careful not to share your script's source with anyone you don't fully trust, and practice good practice with Luraph macros you will be completely safe. Someone would have a much easier time recreating the script over cracking it; essentially making your script uncrackable.

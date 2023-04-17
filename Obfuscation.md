@@ -18,6 +18,16 @@ Each instruction should carry large amounts of specific data, so that the VM kno
 ## Luraph
 This is where a advanced VM such as Luraph is a great example. Luraph's VM is highly secure with very hard to reverse engineer encryption, as well as extra features such as control flow scrambling.
 
+If you go to Luraph's website, you'll see these keywords being used:
+- Virtualization
+- Bytecode Mutation
+- Control Flow Scrambling
+- Encryption
+- Compression
+- Reliablity
+
+Now, unless you have previous experience in obfuscation and Luraph itself, these words will be very confusing and you may not know what they actually mean. In this brief explanation, we'll go over the more complex ones:
+
 ### Control Flow Scrambling
 But what is control flow scrambling? Control flow scrambling is changing how the VM inteperates the set of instructions at random intervals; giving attacks yet another layer to figure out before they can crack through the VM.
 

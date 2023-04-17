@@ -65,7 +65,7 @@ Just... just dont.
 - None so far
 
 ### Paid Obfuscators
-I recently saw someone in a whitelisting Discord server asking about premium obfuscation since their webhook was spammed. Obfuscation, simplified, hides and protects your code itself. Not what it does. There's a misconception that obfuscation is a great way to protect your script, and to a degree it is. Obfuscation only really hides, protectes, and prevents tampering with the hard-coded code, not what it may do. It does not prevent HTTP sniffing, does not prevent hooking, and will not be perfect for most use cases. Ultimately, obfuscation is only really effectived when combined with premium whitelisting and security. Otherwise, it's only delaying someone cracking your code.
+I recently saw someone in a whitelisting Discord server asking about premium obfuscation since their webhook was spammed. Obfuscation, simplified, hides and protects your code itself. It would **not** protect a webhook from being sniffed and the webhook URL being stolen. There's a misconception that obfuscation is a great way to protect your script, and to a degree it is. Obfuscation only really hides, protectes, and prevents tampering with the hard-coded code, not what it may do. It does not prevent HTTP sniffing, does not prevent hooking, and will not be perfect for most use cases. Ultimately, obfuscation is only really effectived when combined with premium whitelisting and security. Otherwise, it's only delaying someone cracking your code.
 
 Now, with all of this out of the way, there are some major benefits of investing into a paid obfuscator. While we discuss these, Luraph and solely Luraph is the only obfuscator that is being reffered to; as it's really the only obfuscator you should be looking into.
 

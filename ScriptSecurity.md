@@ -21,7 +21,7 @@ In just two steps your entire script's raw source code is completely vulnerable 
 - 1/10
 #### Scripts With Vulnerability
 - Krato Security
-- MostBlatantMalware#0277's Shit Aimbot
+- MostBlatantMalware#0277's Aimbot
 
 ## Chapter 3 - Restricted Access
 Keeping your script refined to a small audience of people, or in other words privated, is a pretty bad idea without obfuscation. Anyone in the group that has access can at any point leak the script, which is why this is only a good idea if someone is paying you for this script specifically. Otherwise, it's really not worth the risk unless the script is very low value, or the people who have access can be trusted.
@@ -57,7 +57,7 @@ To summarize everything mentioned above, please consider the following points ca
 #### Scripts With Vulnerability
 - None so far
 
-### Loadstring / Shit Obfuscators
+### Loadstring / Low Quality Obfuscators
 Just... just dont.
 #### Security Rating
 - 1/10

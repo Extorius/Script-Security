@@ -39,5 +39,15 @@ Byte code mutation is when Luraph removes any information in your script that wo
 
 Information that is not needed or is unimportant can be changed, randomize, or completely removed to minimize unique identifiers attackers can lach onto.
 
+## Vulnerable Obfuscators
+- Moonsec v2 [Complete Deobfuscation]
+- Moonsec v3 [Complete Deobfuscation]
+- AztupBrew [Complete Deobfuscation]
+- PSU [Complete Deobfuscation]
+- Boronide [Complete Deobfuscation]
+- IB2 [Complete Deobfuscation]
+- KratoSecurity [Easily Deobfuscated]
+- Loadstring Obfuscators [Easily Deobfuscated]
+
 ## Security
 Obfuscating your code is the absolute grounding step to securing it. And while obfuscating your code is a **huge** step and will improve security drastically, it doesn't offer too much security outside of securing and hiding the hard-coded aspects of your code. Everything can be hooked, snooped on, logged, etc. which is why it's always smart to obfuscate and secure your code with anti-hooks and whitelisting as well.
